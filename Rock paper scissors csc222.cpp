@@ -1,6 +1,6 @@
 // Rock paper scissors CSC222.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Name: Yochanan allen 
-
+// https://github.com/YochananAllen/Rock-paper-scissors-csc222.git
 //Write a program that lets the user play the game Rock, Paper, Scissors against the computer:
 //Write the program so that the game proceeds in a loop where the computer and a human play
 //multiple rounds of the game in a tournament.A score is kept for each player of the number of wins.
